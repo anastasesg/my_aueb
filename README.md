@@ -1,16 +1,5 @@
-# my_aueb
+# myAUEB
 
-A new Flutter project.
+Τα παραπάνω, αποτελούν τον πηγαίο κώδικα για ένα προσωπικό project που αναπτύσσω από το Σεπτέμβρη του 2020. Σκοπός της εφαρμογής είναι να παρέχει έναν αισθητικά όμορφο αλλά και απλό τρόπο διαχείρησης της ακαδημαϊκής μου ζωής, συγκεντρώνοντας σε ένα μέρος ό,τι πληροφορίες μπορεί να χρειαστεί ένας φοιτητής του Τμήματος Στατιστικής.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Με εξαίρεση ορισμένες default πληροφορίες, όπως τα τμήματα, οι καθηγητές ή τα μαθήματα που μπορεί να επιλέξει, ο χρήστης μπορεί να ορίσει τα εξάμηνα στα οποία συμμετείχε, τα μαθήματα που έχει επιλέξει, τις βαθμολογίες που έχει σε αυτά καθώς και το ωρολόγιο πρόγραμμά του. Συνδυάζοντας όλα τα δεδομένα, στην αρχική σελίδα φαίνεται αναλυτικά η πρόοδος του φοιτητή καθώς και εκτιμήσεις για το μέλλον της φοίτησής του.
